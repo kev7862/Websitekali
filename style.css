@@ -17,6 +17,10 @@ html,body{
 .nav-link{
   font-size: 1.1em !important;
 }
+.online a{
+  font-size: 1rem;
+  padding: 0.5rem;
+}
 .
 /*--- End of Navbar Styling --- */
 
@@ -42,6 +46,64 @@ html,body{
   text-shadow: 1px 1px 10px #000;
   padding-bottom: 1rem;
 }
+.btn-primary{
+  background-color: #6648b1;
+  border: 1px solid #563d7c;
+}
+/*-- End of Carousel --*/
+
+/*-- Jumbotron Styling --*/
+.jumbotron{
+  padding: 1rem;
+  border-radius: 0;
+}
+/*-- End of Jumbotron Styling --*/
+
+/*-- Welcome Section Styling --*/
+.padding{
+  padding-bottom: 2rem;
+}
+.welcome{
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr{
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: .1rem;
+}
+.fa-code{
+  color: #e54d26;
+}
+.fa-bold{
+  color: #563d7c;
+}
+.fa-css3{
+  color: #2163af;
+}
+.fa-code, .fa-bold, .fa-css3{
+  font-size: 4em;
+  margin: 1rem;
+}
+
+/*-- Emoji Section Styling --*/
+.fun{
+  width: 100%;
+  margin-bottom: 2rem;
+}
+.gif{
+  width: 100%;
+}
+
+/*-- Connect Section Styling --*/
+.social a{
+  font-size: 3rem;
+  padding: 3rem;
+}
+
+
 
 
 
